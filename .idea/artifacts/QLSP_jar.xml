@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QLSP:jar">
+    <output-path>D:/Case/QLSP/out/artifacts/QLSP_jar</output-path>
+    <root id="archive" name="QLSP.jar">
+      <element id="module-output" name="QLSP" />
+    </root>
+  </artifact>
+</component>

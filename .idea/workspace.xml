@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="QLSP:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab928450-7325-4800-8e5b-703218a25a3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bmoiVxP6BhjR239TeKUHImjf9G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="D:/Case" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Case" />
+      <recent name="D:\CodeGym\Git\Module2\Java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="QLSP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QLSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.impl" />
+      <option name="MAIN_CLASS_NAME" value="service.impl.ProductServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceImplTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QLSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.impl" />
+      <option name="MAIN_CLASS_NAME" value="service.impl.ProductServiceImplTest" />
+      <option name="METHOD_NAME" value="addTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceImplTest.findTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QLSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.impl" />
+      <option name="MAIN_CLASS_NAME" value="service.impl.ProductServiceImplTest" />
+      <option name="METHOD_NAME" value="findTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceImplTest.findTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QLSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.impl" />
+      <option name="MAIN_CLASS_NAME" value="service.impl.ProductServiceImplTest" />
+      <option name="METHOD_NAME" value="findTest3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ProductServiceImplTest.addTest" />
+        <item itemvalue="JUnit.ProductServiceImplTest" />
+        <item itemvalue="JUnit.ProductServiceImplTest.findTest3" />
+        <item itemvalue="JUnit.ProductServiceImplTest.findTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab928450-7325-4800-8e5b-703218a25a3c" name="Default Changelist" comment="" />
+      <created>1589246756480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589246756480</updated>
+      <workItem from="1589246760244" duration="4280000" />
+      <workItem from="1589251938253" duration="6653000" />
+      <workItem from="1589271985098" duration="4243000" />
+      <workItem from="1589293295114" duration="976000" />
+      <workItem from="1589331845128" duration="6828000" />
+      <workItem from="1589351843322" duration="11969000" />
+      <workItem from="1589417846166" duration="14169000" />
+      <workItem from="1589438076373" duration="3907000" />
+      <workItem from="1589442202149" duration="6509000" />
+      <workItem from="1589449033494" duration="200000" />
+      <workItem from="1589449262617" duration="2241000" />
+      <workItem from="1589451530069" duration="1268000" />
+      <workItem from="1589466719085" duration="943000" />
+      <workItem from="1589503959477" duration="584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="91" y="91" width="1738" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589255655527">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="91" y="91" width="1738" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1589255655527" />
+    <state x="717" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1589438695811">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="717" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1589438695811" />
+    <state x="623" y="253" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589449354286">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="253" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1589449354286" />
+    <state x="686" y="191" key="FileChooserDialogImpl" timestamp="1589449120565">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="686" y="191" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1589449120565" />
+    <state width="1846" height="239" key="GridCell.Tab.0.bottom" timestamp="1589467662274">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1589467662274" />
+    <state width="1846" height="239" key="GridCell.Tab.0.center" timestamp="1589467662274">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="239" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1589467662274" />
+    <state width="1846" height="239" key="GridCell.Tab.0.left" timestamp="1589467662274">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="239" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1589467662274" />
+    <state width="1846" height="239" key="GridCell.Tab.0.right" timestamp="1589467662274">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="239" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1589467662274" />
+    <state width="1846" height="313" key="GridCell.Tab.1.bottom" timestamp="1589451504637">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="313" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1589451504637" />
+    <state width="1846" height="313" key="GridCell.Tab.1.center" timestamp="1589451504637">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="313" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1589451504637" />
+    <state width="1846" height="313" key="GridCell.Tab.1.left" timestamp="1589451504637">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="313" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1589451504637" />
+    <state width="1846" height="313" key="GridCell.Tab.1.right" timestamp="1589451504637">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1846" height="313" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1589451504637" />
+    <state x="729" y="438" key="ReplaceDuplicatesPrompt" timestamp="1589448427772">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="729" y="438" key="ReplaceDuplicatesPrompt/0.0.1920.1032@0.0.1920.1032" timestamp="1589448427772" />
+    <state x="343" y="112" key="SettingsEditor" timestamp="1589451939148">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="343" y="112" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1589451939148" />
+    <state x="609" y="384" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589253479016">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="609" y="384" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1032@0.0.1920.1032" timestamp="1589253479016" />
+    <state x="721" y="141" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589258643571">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="721" y="141" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1589258643571" />
+    <state x="623" y="227" width="673" height="626" key="extract.method.dialog" timestamp="1589448423105">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="227" width="673" height="626" key="extract.method.dialog/0.0.1920.1032@0.0.1920.1032" timestamp="1589448423105" />
+    <state x="531" y="227" key="run.anything.popup" timestamp="1589357519554">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="531" y="227" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1589357519554" />
+    <state x="539" y="0" width="840" height="1030" key="search.everywhere.popup" timestamp="1589420904666">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="0" width="840" height="1030" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1589420904666" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://D:/Case/QLSP/src/repository/impl/ProductRepository.java</url>
+          <line>13</line>
+          <properties class="repository.impl.ProductRepository" method="save">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/Case/QLSP/src/repository/impl/ProductRepository.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/Case/QLSP/src/repository/impl/ProductRepository.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/Case/QLSP/src/repository/impl/ProductRepository.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
